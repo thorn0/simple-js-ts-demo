@@ -1,0 +1,18 @@
+{
+  "name": "simple-js-ts-demo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Georgii Dolzhykov <thorn.mailbox@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.111",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}

@@ -1,0 +1,3 @@
+interface NumberContainer {
+  num: number;
+}
